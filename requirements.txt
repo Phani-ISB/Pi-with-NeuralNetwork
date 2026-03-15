@@ -1,8 +1,5 @@
 streamlit
-tensorflow
-scikit-learn
 numpy
 matplotlib
-pandas
-plotly
-seaborn
+scikit-learn
+tensorflow-cpu
